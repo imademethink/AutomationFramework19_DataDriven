@@ -1,0 +1,78 @@
+2021-05-06 09:09:40 FATAL Utility_General                                   :154 - 
+  _____        _          _____       _                 
+ |  __ \      | |        |  __ \     (_)                
+ | |  | | __ _| |_ __ _  | |  | |_ __ ___   _____ _ __  
+ | |  | |/ _` | __/ _` | | |  | | '__| \ \ / / _ \ '_ \ 
+ | |__| | (_| | || (_| | | |__| | |  | |\ V /  __/ | | |
+ |_____/ \__,_|\__\__,_| |_____/|_|  |_| \_/ \___|_| |_|
+
+2021-05-06 09:09:44 INFO  HooksHelper                                       :26 - Log: Before every Scenario hook
+2021-05-06 09:09:44 INFO  HooksHelper                                       :35 - Log: After the every Scenario hook
+2021-05-06 09:09:44 INFO  HooksHelper                                       :39 - Log: Attaching screenshot for failed scenario Data driven with data from cucumber
+2021-05-06 09:09:44 INFO  HooksHelper                                       :26 - Log: Before every Scenario hook
+2021-05-06 09:09:44 INFO  HooksHelper                                       :35 - Log: After the every Scenario hook
+2021-05-06 09:09:44 INFO  HooksHelper                                       :39 - Log: Attaching screenshot for failed scenario Data driven with data from cucumber
+2021-05-06 09:09:44 INFO  HooksHelper                                       :26 - Log: Before every Scenario hook
+2021-05-06 09:09:44 INFO  HooksHelper                                       :35 - Log: After the every Scenario hook
+2021-05-06 09:09:44 INFO  HooksHelper                                       :39 - Log: Attaching screenshot for failed scenario Data driven with data from cucumber
+2021-05-06 09:09:44 INFO  HooksHelper                                       :26 - Log: Before every Scenario hook
+2021-05-06 09:09:44 INFO  HooksHelper                                       :35 - Log: After the every Scenario hook
+2021-05-06 09:09:44 INFO  HooksHelper                                       :39 - Log: Attaching screenshot for failed scenario Data driven with data from cucumber
+2021-05-06 09:09:45 INFO  Utility_General                                   :101 - Log: Html report generated
+2021-05-06 09:11:14 FATAL Utility_General                                   :154 - 
+  _____        _          _____       _                 
+ |  __ \      | |        |  __ \     (_)                
+ | |  | | __ _| |_ __ _  | |  | |_ __ ___   _____ _ __  
+ | |  | |/ _` | __/ _` | | |  | | '__| \ \ / / _ \ '_ \ 
+ | |__| | (_| | || (_| | | |__| | |  | |\ V /  __/ | | |
+ |_____/ \__,_|\__\__,_| |_____/|_|  |_| \_/ \___|_| |_|
+
+2021-05-06 09:11:16 INFO  HooksHelper                                       :26 - Log: Before every Scenario hook
+2021-05-06 09:11:21 INFO  GlobalObjects                                     :138 - Log: Chrome browser is launched
+2021-05-06 09:11:23 INFO  StepDef_DataDrivenCucumber                        :13 - Log: Preparing sample data
+2021-05-06 09:11:23 INFO  StepDef_DataDrivenCucumber                        :14 - Log: valid_login_user    creativity2020@mailinator.com
+2021-05-06 09:11:23 INFO  StepDef_DataDrivenCucumber                        :15 - Log: valid_login_pwd     creativity2020@@
+2021-05-06 09:11:23 INFO  StepDef_DataDrivenCucumber                        :16 - Log: invalid_login_user  creativity2098@mailinator.com
+2021-05-06 09:11:23 INFO  StepDef_DataDrivenCucumber                        :17 - Log: invalid_login_pwd   creativity2098@@
+2021-05-06 09:11:23 INFO  StepDef_DataDrivenCucumber                        :19 - Log: valid_login_user    creativity2020@mailinator.com
+2021-05-06 09:11:23 INFO  StepDef_DataDrivenCucumber                        :20 - Log: invalid_login_user  creativity2098@mailinator.com
+2021-05-06 09:11:23 INFO  StepDef_DataDrivenCucumber                        :25 - Log: Navigating to login section http://automationpractice.com/index.php
+2021-05-06 09:11:34 INFO  StepDef_DataDrivenCucumber                        :32 - Log: attempting login with valid data
+2021-05-06 09:11:38 INFO  StepDef_DataDrivenCucumber                        :44 - Log: validating login
+2021-05-06 09:11:42 INFO  HooksHelper                                       :35 - Log: After the every Scenario hook
+2021-05-06 09:11:42 INFO  HooksHelper                                       :39 - Log: Attaching screenshot for failed scenario Data driven with data from cucumber
+2021-05-06 09:11:44 INFO  HooksHelper                                       :56 - Log: Chrome browser is closed
+
+2021-05-06 09:11:44 INFO  HooksHelper                                       :26 - Log: Before every Scenario hook
+2021-05-06 09:11:46 INFO  GlobalObjects                                     :138 - Log: Chrome browser is launched
+2021-05-06 09:11:46 INFO  StepDef_DataDrivenCucumber                        :13 - Log: Preparing sample data
+2021-05-06 09:11:46 INFO  StepDef_DataDrivenCucumber                        :14 - Log: valid_login_user    creativity2020@mailinator.com
+2021-05-06 09:11:46 INFO  StepDef_DataDrivenCucumber                        :15 - Log: valid_login_pwd     creativity2020@@
+2021-05-06 09:11:46 INFO  StepDef_DataDrivenCucumber                        :16 - Log: invalid_login_user  creativity2098@mailinator.com
+2021-05-06 09:11:46 INFO  StepDef_DataDrivenCucumber                        :17 - Log: invalid_login_pwd   creativity2098@@
+2021-05-06 09:11:46 INFO  StepDef_DataDrivenCucumber                        :19 - Log: valid_login_user    creativity2020@mailinator.com
+2021-05-06 09:11:46 INFO  StepDef_DataDrivenCucumber                        :20 - Log: invalid_login_user  creativity2098@mailinator.com
+2021-05-06 09:11:46 INFO  StepDef_DataDrivenCucumber                        :25 - Log: Navigating to login section http://automationpractice.com/index.php
+2021-05-06 09:11:52 INFO  StepDef_DataDrivenCucumber                        :32 - Log: attempting login with valid data
+2021-05-06 09:11:57 INFO  StepDef_DataDrivenCucumber                        :44 - Log: validating login
+2021-05-06 09:12:01 INFO  HooksHelper                                       :35 - Log: After the every Scenario hook
+2021-05-06 09:12:01 INFO  HooksHelper                                       :39 - Log: Attaching screenshot for failed scenario Data driven with data from cucumber
+2021-05-06 09:12:03 INFO  HooksHelper                                       :56 - Log: Chrome browser is closed
+
+2021-05-06 09:12:03 INFO  HooksHelper                                       :26 - Log: Before every Scenario hook
+2021-05-06 09:12:04 INFO  GlobalObjects                                     :138 - Log: Chrome browser is launched
+2021-05-06 09:12:05 INFO  StepDef_DataDrivenCucumber                        :13 - Log: Preparing sample data
+2021-05-06 09:12:05 INFO  StepDef_DataDrivenCucumber                        :14 - Log: valid_login_user    creativity2020@mailinator.com
+2021-05-06 09:12:05 INFO  StepDef_DataDrivenCucumber                        :15 - Log: valid_login_pwd     creativity2020@@
+2021-05-06 09:12:05 INFO  StepDef_DataDrivenCucumber                        :16 - Log: invalid_login_user  creativity2098@mailinator.com
+2021-05-06 09:12:05 INFO  StepDef_DataDrivenCucumber                        :17 - Log: invalid_login_pwd   creativity2098@@
+2021-05-06 09:12:05 INFO  StepDef_DataDrivenCucumber                        :19 - Log: valid_login_user    creativity2020@mailinator.com
+2021-05-06 09:12:05 INFO  StepDef_DataDrivenCucumber                        :20 - Log: invalid_login_user  creativity2098@mailinator.com
+2021-05-06 09:12:05 INFO  StepDef_DataDrivenCucumber                        :25 - Log: Navigating to login section http://automationpractice.com/index.php
+2021-05-06 09:12:11 INFO  StepDef_DataDrivenCucumber                        :35 - Log: attempting login with invalid data
+2021-05-06 09:12:16 INFO  StepDef_DataDrivenCucumber                        :44 - Log: validating login
+2021-05-06 09:12:20 INFO  Page_Home                                         :63 - Log: Login check passed
+2021-05-06 09:12:20 INFO  HooksHelper                                       :35 - Log: After the every Scenario hook
+2021-05-06 09:12:21 INFO  HooksHelper                                       :56 - Log: Chrome browser is closed
+
+2021-05-06 09:12:21 INFO  Utility_General                                   :101 - Log: Html report generated
